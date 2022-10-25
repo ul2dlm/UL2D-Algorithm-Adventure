@@ -1,6 +1,6 @@
 /*
-    A+B
-    https://www.acmicpc.net/problem/1000
+    AxB
+    https://www.acmicpc.net/problem/10998
 */
 #include <iostream>
 
@@ -8,8 +8,9 @@ using namespace std;
 
 int main()
 {
-    int N, M;
+    double N, M;
     cin >> N >> M;
-    cout << N+M;
+    cout << N*M;
+    
     return 0;
 }
