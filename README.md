@@ -2,4 +2,5 @@
 
 ## 알고리즘 대모험 계획
 
-### 레몬 포크 프로젝트!
+화이팅 :)
+https://www.acmicpc.net/user/ul2d_lemon 🎋🎄
